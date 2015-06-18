@@ -1,0 +1,7 @@
+git init
+git add .
+git commit -m “______”
+git revert -n #####
+git commit -m “reverting #####”
+git add .
+git commit -m “new______”
