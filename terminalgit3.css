@@ -1,0 +1,27 @@
+h1{
+	color: white;
+}
+
+p{
+	color: white;
+}
+
+#wrapper{
+	width: 842px;
+	background-color: black;
+	display: inline-block;
+	padding: 20px;
+}
+
+	#wrapper h1{
+		display: block;
+	}
+
+	#wrapper p{
+		display: block;
+	}
+
+	#wrapper img{
+		display: inline-block;
+		border: 2px solid white;
+	}
